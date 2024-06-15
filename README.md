@@ -3,7 +3,7 @@
 
 ---
 
-### 🌟 Projects:
+## 🌟 Projects:
 
 - **[SinGAN](https://github.com/SunJacques/SinGAN)** (May 2024 - June 2024)
   - Worked under the supervision of Arthur Leclair (MVA teacher) on the SinGAN paper for 4 weeks.
@@ -13,7 +13,6 @@
   - Developed a dermoscopic images classifier for 8 different diagnostic classes.
   - Trained a UNet for segmentation.
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunJacques&theme=white&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook)
 
 ---
