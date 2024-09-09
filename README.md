@@ -12,6 +12,10 @@
 - **[Medical Classification](https://github.com/SunJacques/Medical_classification)** (April 2024)
   - Developed a dermoscopic images classifier for 8 different diagnostic classes.
   - Trained a UNet for segmentation.
+    
+- **[Disaster Scene Segmentation Classification](https://github.com/SunJacques/LPCVC-2023)** (June 2023)
+  - Trained deep learning models with PyTorch segmenting disaster scenes captured by drone
+  - Optimized the model making it suitable for deployment on low-power edge devices on 2GB of RAM
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunJacques&theme=white&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook)
 
