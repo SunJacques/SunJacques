@@ -17,6 +17,6 @@
   - Trained deep learning models with PyTorch segmenting disaster scenes captured by drone
   - Optimized the model making it suitable for deployment on low-power edge devices on 2GB of RAM
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunJacques&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook&bg_color=ffffff00&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunJacques&hide_border=true&include_all_commits=true&layout=compact&hide=jupyter%20notebook&bg_color=00000000&theme=transparent&theme=github_dark_dimmed)
 
 ---
