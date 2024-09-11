@@ -13,7 +13,7 @@
   - Developed a dermoscopic images classifier for 8 different diagnostic classes.
   - Trained a UNet for segmentation.
     
-- **[Disaster Scene Segmentation Classification](https://github.com/SunJacques/LPCVC-2023)** (June 2023)
+- **[Disaster Scenes Semantic Segmentation](https://github.com/SunJacques/LPCVC-2023)** (June 2023)
   - Trained deep learning models with PyTorch segmenting disaster scenes captured by drone
   - Optimized the model making it suitable for deployment on low-power edge devices on 2GB of RAM
 
