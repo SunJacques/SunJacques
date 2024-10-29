@@ -5,6 +5,11 @@
 
 ## 🌟 Projects:
 
+
+- **[Recommendation System](https://github.com/SunJacques/Recommendation-System)** (September 2024 - October 2024)
+  - A movie recommendation system using collaborative filtering and matrix factorization on a user-movie rating dataset
+  - Implementation of gradient descent variants and similarity-based methods, enhanced with custom rounding for rating predictions
+
 - **[SinGAN](https://github.com/SunJacques/SinGAN)** (May 2024 - June 2024)
   - Worked under the supervision of Arthur Leclair (MVA teacher) on the SinGAN paper for 4 weeks.
   - Implemented a simpler version of SinGAN.
